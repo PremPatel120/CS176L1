@@ -4,7 +4,6 @@ public class CashRegisterVersion2 {
 	
 	private double purchase;
 	private double payment;
-	private double discount;
 	private double amountDiscounted;
 	private double afterDiscount;
 	
